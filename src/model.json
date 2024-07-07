@@ -1,0 +1,14 @@
+[
+  {
+    "model_tag": "phi3",
+    "model_name": "Phi 3",
+    "inference_speed": "fast",
+    "model_description": "Optimized for speed and can be used for real-time applications."
+  },
+  {
+    "model_tag": "llama3",
+    "model_name": "Llama 3",
+    "inference_speed": "moderate",
+    "model_description": "Provide a balance between speed and accuracy."
+  }
+]
